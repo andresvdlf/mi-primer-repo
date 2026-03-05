@@ -1,3 +1,4 @@
 # mi-primer-repo
-Soy estudiante en prácticas de ASIR
-Aprendiendo a usar Git desde la terminal
+Trabajando en la rama dev  
+Soy estudiante en prácticas de ASIR  
+Aprendiendo a usar Git desde la terminal  
